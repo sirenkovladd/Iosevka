@@ -1,0 +1,78 @@
+[buildPlans.IosevkaCustom]
+family = "Iosevka Spad"
+spacing = "term"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaCustom.variants.design]
+capital-a = "curly-serifless"
+capital-c = "bilateral-inward-serifed"
+capital-d = "more-rounded-serifless"
+capital-g = "toothless-corner-serifless-hooked"
+capital-i = "short-serifed"
+capital-j = "serifless"
+capital-k = "curly-serifless"
+capital-m = "slanted-sides-hanging-serifless"
+capital-p = "open-serifless"
+capital-q = "crossing"
+capital-r = "standing-open-serifless"
+capital-u = "toothless-corner-serifless"
+capital-v = "curly-serifless"
+capital-x = "curly-serifless"
+capital-y = "curly-serifless"
+a = "single-storey-earless-corner-serifless"
+b = "toothless-rounded-serifless"
+c = "unilateral-inward-serifed"
+d = "toothless-rounded-serifless"
+e = "rounded"
+f = "flat-hook-serifless-crossbar-at-x-height"
+g = "double-storey"
+h = "tailed-serifless"
+i = "serifless"
+j = "flat-hook-serifless"
+l = "flat-tailed"
+p = "earless-rounded-serifless"
+q = "straight-motion-serifed"
+r = "hookless-serifless"
+x = "curly-serifless"
+y = "cursive-serifless"
+eszet = "longs-s-lig-serifless"
+cyrl-capital-zhe = "curly"
+cyrl-zhe = "curly"
+cyrl-capital-ka = "curly-bottom-right-serifed"
+cyrl-ka = "curly-bottom-right-serifed"
+cyrl-er = "earless-rounded-serifless"
+cyrl-capital-u = "cursive-serifless"
+cyrl-u = "cursive-serifless"
+cyrl-capital-ya = "standing-open-serifless"
+cyrl-ya = "standing-open-serifless"
+zero = "tall-slashed"
+asterisk = "hex-mid"
+ampersand = "upper-open"
+dollar = "open"
+percent = "rings-continuous-slash"
+lig-ltgteq = "slanted"
+lig-neq = "more-slanted"
+lig-single-arrow-bar = "without-notch"
+
+[buildPlans.IosevkaCustom.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaCustom.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaCustom.widths.SemiExtended]
+shape = 548
+menu = 6
+css = "semi-expanded"
+
+[buildPlans.IosevkaCustom.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"

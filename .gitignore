@@ -16,7 +16,6 @@ packages/font-otl/src/**/*.mjs
 
 # Private config files
 private.toml
-private-build-plans.toml
 
 # pages-source ignores
 .next
